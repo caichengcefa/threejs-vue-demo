@@ -1,11 +1,11 @@
 
 
 <template>
-    <response></response>
+    <gltf></gltf>
 </template>
 
 <script setup>
-import response from './response.vue'
+import gltf from './gltf.vue'
 </script>
 
 <style scoped>
