@@ -1,11 +1,12 @@
 
 
 <template>
-    <gltf></gltf>
+    <tank></tank>
 </template>
 
 <script setup>
-import gltf from './gltf.vue'
+// import scenegraph from './scenegraph.vue'
+import tank from './tank.vue'
 </script>
 
 <style scoped>
