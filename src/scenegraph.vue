@@ -56,6 +56,7 @@ onMounted(() => {
   camera.lookAt(0, 0, 0);
 
   const scene = new THREE.Scene();
+  scene.add(new THREE.AxesHelper(1000))
 
   {
     const color = 0xFFFFFF;
